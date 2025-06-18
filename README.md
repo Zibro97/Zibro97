@@ -9,10 +9,6 @@
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
 
-<h3 align="center">🛠 Vibe Coding 🛠</h3>
-<div align="center">
-</div>
-
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
